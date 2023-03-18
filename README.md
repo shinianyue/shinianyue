@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## this is Graff_sny.
 ## A silly programmer.(and gamer)
 ## Have a nice day.
