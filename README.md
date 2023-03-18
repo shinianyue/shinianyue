@@ -1,7 +1,7 @@
 ### Hi there 👋
--this is Graff_sny.
--A silly programmer.(and gamer)
--Have a nice day.
+## this is Graff_sny.
+## A silly programmer.(and gamer)
+## Have a nice day.
 
 <!--
 **shinianyue/shinianyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
