@@ -2,8 +2,8 @@
 ## this is Graff_sny.
 ## A silly programmer.(and gamer)
 ## Have a nice day.
-$$ 
-\mathbf{V}_1
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmartrix}
 <!--
 **shinianyue/shinianyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
