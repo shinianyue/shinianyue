@@ -1,4 +1,4 @@
-# Hi guys 👋
+# qwq
 this is Graff_sny.  
 A silly programmer.(and gamer). 
 And coffee lover(addict). 
